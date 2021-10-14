@@ -31,3 +31,5 @@
     <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
+
+![Snake animation](https://github.com/Bruno-CLM/Bruno-CLM/blob/output/github-contribution-grid-snake.svg)
