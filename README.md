@@ -14,7 +14,7 @@
 
 </div>
 
-## Tecnologias que eu utilizo no dia a dia
+##💻 Tecnologias que eu utilizo no dia a dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -25,7 +25,7 @@
 
 </div>
 
-## Tecnologias que estou estudando
+##👨‍💻 Tecnologias que estou estudando
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
