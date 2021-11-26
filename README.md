@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madeirab54@gmail.com)
-<div align="left">
+<div align="center" style="display: inline">
 
 ![Bruno Cunha GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-CLM&show_icons=true&theme=tokyonight&align=center)
 
